@@ -37,13 +37,10 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/channels/@me/996130661259821136" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="vittori513@gmail.com" target="_blank">
+  <a href="mailto:vittori513@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/santiago-vittori/" target="_blank">
+  <a href="https://www.linkedin.com/in/santiago-vittori/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
