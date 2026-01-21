@@ -1,50 +1,51 @@
-<h2 align="left">Hola 👋🏽! Mi nombre es Santiago</h2>
+<h2 align="center">Hola 👋🏽, soy Santiago Vittori</h2>
 
-###
+<p align="center">
+  Ingeniero en Sistemas · Desarrollo de Software · Aprendiz constante
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vittorisantiago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vittorisantiago&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vittorisantiago&show_icons=true&include_all_commits=true&count_private=true&theme=nord&locale=es"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vittorisantiago&layout=compact&langs_count=5&theme=nord&locale=es"
+    height="150"
+    alt="Top Languages"
+  />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:vittori513@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="mailto:vittori513@gmail.com" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="42"
+      height="32"
+      alt="Gmail"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/santiago-vittori/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/santiago-vittori/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="42"
+      height="32"
+      alt="LinkedIn"
+    />
   </a>
+</p>
+
+---
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/vittorisantiago/vittorisantiago/output/snake.svg"
+    alt="Snake animation"
+  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vittorisantiago/vittorisantiago/output/snake.svg" alt="Snake animation" />
-
-###
