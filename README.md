@@ -8,12 +8,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vittorisantiago&show_icons=true&include_all_commits=true&count_private=true&theme=nord&locale=es"
+    src="https://github-readme-stats.vercel.app/api?username=vittorisantiago&show_icons=true&include_all_commits=true&theme=nord"
     height="150"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vittorisantiago&layout=compact&langs_count=5&theme=nord&locale=es"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vittorisantiago&layout=compact&langs_count=6&theme=nord&hide_progress=true"
     height="150"
     alt="Top Languages"
   />
@@ -21,8 +21,27 @@
 
 ---
 
+### 🚀 Sobre mí
+
+- 👨‍💻 Ingeniero en Sistemas
+- 🧠 Apasionado por el desarrollo de software y los productos digitales
+- 🏗️ Enfocado en arquitectura, backend y soluciones SaaS
+- 📚 Aprendiz constante, siempre probando nuevas tecnologías
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
 <p align="center">
-  <a href="mailto:vittori513@gmail.com" style="text-decoration: none;">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,supabase,docker,git,github" />
+</p>
+
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="mailto:vittori513@gmail.com">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
       width="42"
@@ -31,7 +50,7 @@
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/santiago-vittori/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/santiago-vittori/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="42"
