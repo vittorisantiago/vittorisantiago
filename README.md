@@ -7,11 +7,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/vittorisantiago">
-    <img src="https://github-readme-stats.vercel.app/api?username=vittorisantiago&show_icons=true&include_all_commits&theme=nord" height="150" alt="GitHub Stats Santiago" />
-  </a>
-  <a href="https://github.com/vittorisantiago">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vittorisantiago&layout=compact&langs_count=6&theme=nord&hide_progress" height="150" alt="Top Languages Santiago" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vittorisantiago&theme=nord&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 
