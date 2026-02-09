@@ -7,16 +7,12 @@
 ---
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vittorisantiago&show_icons=true&include_all_commits=true&theme=nord"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vittorisantiago&layout=compact&langs_count=6&theme=nord&hide_progress=true"
-    height="150"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/vittorisantiago">
+    <img src="https://github-readme-stats.vercel.app/api?username=vittorisantiago&show_icons=true&include_all_commits&theme=nord" height="150" alt="GitHub Stats Santiago" />
+  </a>
+  <a href="https://github.com/vittorisantiago">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vittorisantiago&layout=compact&langs_count=6&theme=nord&hide_progress" height="150" alt="Top Languages Santiago" />
+  </a>
 </div>
 
 ---
