@@ -16,17 +16,14 @@
 
 ### 🚀 Sobre mí
 
-- 👨‍💻 Ingeniero en Sistemas
-- 🧠 Apasionado por el desarrollo de software y los productos digitales
-- 🏗️ Enfocado en arquitectura, backend y soluciones SaaS
-- 📚 Aprendiz constante, siempre probando nuevas tecnologías
+Soy Ingeniero en Sistemas. Mi enfoque principal está en el desarrollo Full-Stack, con una sólida especialización en arquitecturas escalables, soluciones SaaS y optimización de procesos mediante tecnología. Me motiva diseñar sistemas robustos utilizando tecnologías modernas como Next.js, Node.js y Supabase, siempre con el objetivo de transformar problemas complejos en herramientas eficientes y de alto impacto. Soy un aprendiz constante que disfruta explorar nuevas tecnologías y aplicar IA para acelerar flujos de trabajo y mejorar la calidad del software que construyo.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,supabase,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,supabase,git,github" />
 </p>
 
 ---
