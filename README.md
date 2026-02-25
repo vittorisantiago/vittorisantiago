@@ -23,7 +23,7 @@ Soy Ingeniero en Sistemas. Mi enfoque principal está en el desarrollo Full-Stac
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,supabase,git,github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,react,nextjs,postgresql,supabase,git,github" />
 </p>
 
 ---
