@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre mí
 
-Soy Ingeniero en Sistemas. Mi enfoque principal está en el desarrollo Full-Stack, con una sólida especialización en arquitecturas escalables, soluciones SaaS y optimización de procesos mediante tecnología. Me motiva diseñar sistemas robustos utilizando tecnologías modernas como Next.js, Node.js y Supabase, siempre con el objetivo de transformar problemas complejos en herramientas eficientes y de alto impacto. Soy un aprendiz constante que disfruta explorar nuevas tecnologías y aplicar IA para acelerar flujos de trabajo y mejorar la calidad del software que construyo.
+Ingeniero en Sistemas con experiencia Full Stack y gran interés en el análisis de datos y la automatización mediante Inteligencia Artificial. Me apasiona crear soluciones tecnológicas que aporten valor real, integrando bases de datos, procesamiento con Python y nociones de visualización. Utilizo herramientas de IA en mi día a día para optimizar código y procesos. Me caracterizo por mi adaptabilidad y pensamiento analítico. Busco contribuir a equipos dinámicos donde pueda asumir nuevos desafíos, crecer profesionalmente y aportar una visión técnica sólida orientada a resultados.
 
 ---
 
