@@ -1,7 +1,7 @@
-<h2 align="center">Hola 👋🏽, soy Santiago Vittori</h2>
+<h2 align="center">Hola 👋🏽, soy Santiago</h2>
 
 <p align="center">
-  Ingeniero en Sistemas · Desarrollo de Software · Aprendiz constante
+  Ingeniero en Sistemas · Ciberseguridad · Ethical Hacking · AppSec
 </p>
 
 ---
@@ -16,14 +16,21 @@
 
 ### 🚀 Sobre mí
 
-Ingeniero en Sistemas con experiencia Full Stack y gran interés en el análisis de datos y la automatización mediante Inteligencia Artificial. Me apasiona crear soluciones tecnológicas que aporten valor real, integrando bases de datos, procesamiento con Python y nociones de visualización. Utilizo herramientas de IA en mi día a día para optimizar código y procesos. Me caracterizo por mi adaptabilidad y pensamiento analítico. Busco contribuir a equipos dinámicos donde pueda asumir nuevos desafíos, crecer profesionalmente y aportar una visión técnica sólida orientada a resultados.
+Soy **Ingeniero en Sistemas** con un sólido *background* en desarrollo de software, orientando mi carrera profesional hacia la **Ciberseguridad de la Información y el Ethical Hacking**. 
+
+Mi experiencia previa construyendo aplicaciones web me da una ventaja analítica fundamental: **comprendo cómo se estructuran los sistemas desde adentro**. Esto me permite auditar código, entender arquitecturas complejas y detectar vulnerabilidades desde la raíz.
+
+* 🔐 **Foco actual:** Seguridad de Aplicaciones (AppSec), OWASP Top 10 y Web Pentesting.
+* 💻 **Herramientas:** Manejo fluido de entornos Linux, automatización de tareas con *scripts* en Python/Bash y análisis de vulnerabilidades.
+* 📚 **Aprendizaje activo:** Práctica constante en laboratorios controlados y participación en eventos de la comunidad.
+* 🎯 **Objetivo:** Aportar mi pensamiento lateral y mi capacidad analítica en un equipo de seguridad, asumiendo nuevos desafíos para proteger la información y los activos digitales.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,react,nextjs,postgresql,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,vim,python,bash,docker,git,github,postgresql" alt="Tech Stack" />
 </p>
 
 ---
