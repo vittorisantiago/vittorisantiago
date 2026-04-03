@@ -1,7 +1,7 @@
 <h2 align="center">Hola 👋🏽, soy Santiago</h2>
 
 <p align="center">
-  Ingeniero en Sistemas · Ciberseguridad · Ethical Hacking · AppSec
+  Ciberseguridad · Ethical Hacking · AppSec · Pentester
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 Soy **Ingeniero en Sistemas** con *background* en desarrollo de software, orientando mi carrera profesional hacia la **Ciberseguridad y el Ethical Hacking**. 
 
-Mi experiencia previa construyendo aplicaciones web me permite **comprender cómo se estructuran los sistemas desde adentro**. Auditar código, entender arquitecturas complejas y detectar vulnerabilidades.
+Mi experiencia previa construyendo aplicaciones web me permite **comprender cómo se estructuran los sistemas**. Auditar código, entender arquitecturas complejas y detectar vulnerabilidades.
 
 * 🔐 **Foco actual:** Seguridad de Aplicaciones (AppSec), OWASP Top 10 y Web Pentesting.
 * 💻 **Herramientas:** Manejo fluido de entornos Linux, automatización de tareas con *scripts* en Python/Bash y análisis de vulnerabilidades.
