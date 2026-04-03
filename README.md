@@ -16,9 +16,9 @@
 
 ### 🚀 Sobre mí
 
-Soy **Ingeniero en Sistemas** con un sólido *background* en desarrollo de software, orientando mi carrera profesional hacia la **Ciberseguridad de la Información y el Ethical Hacking**. 
+Soy **Ingeniero en Sistemas** con *background* en desarrollo de software, orientando mi carrera profesional hacia la **Ciberseguridad y el Ethical Hacking**. 
 
-Mi experiencia previa construyendo aplicaciones web me da una ventaja analítica fundamental: **comprendo cómo se estructuran los sistemas desde adentro**. Esto me permite auditar código, entender arquitecturas complejas y detectar vulnerabilidades desde la raíz.
+Mi experiencia previa construyendo aplicaciones web me permite **comprender cómo se estructuran los sistemas desde adentro**. Auditar código, entender arquitecturas complejas y detectar vulnerabilidades.
 
 * 🔐 **Foco actual:** Seguridad de Aplicaciones (AppSec), OWASP Top 10 y Web Pentesting.
 * 💻 **Herramientas:** Manejo fluido de entornos Linux, automatización de tareas con *scripts* en Python/Bash y análisis de vulnerabilidades.
